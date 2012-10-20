@@ -37,7 +37,7 @@
  '(error-face ((t (:foreground "#a40000" :weight bold :underline t))))
 
      ;;; basic coloring
- '(default ((t (:foreground "#d3d7cf"))))
+ '(default ((t (:foreground "#d3d7cf" :background "#2e3436"))))
  '(cursor
   ((t (:backgrund "#d3d7cf"))))
  '(escape-glyph-face ((t (:foreground "#edd400"))))

@@ -115,7 +115,7 @@
      (font-lock-doc-face ((t (:foreground ,aluminium4 :slant italic))))
      (font-lock-doc-string-face ((t (:foreground ,skyblue1))))
      (font-lock-function-name-face ((t (:foreground ,skyblue1))))
-     (font-lock-keyword-face ((t (:inherit plum1))))
+     (font-lock-keyword-face ((t (:inherit ,plum1))))
      (font-lock-negation-char-face ((t (:foreground ,chameleon1))))
      (font-lock-preprocessor-face ((t (:foreground ,scarletred1))))
      (font-lock-string-face ((t (:foreground ,butter2))))
